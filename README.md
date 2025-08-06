@@ -22,7 +22,7 @@ This project investigates the growing challenge of distinguishing between **huma
 - **Classifier**: Logistic Regression
 - **Performance**: F1 Score ≈ `0.99`
 
-### Transformer Model (Week 2+)
+### Transformer Model (Week 2 & 3)
 - **Model**: `DistilBERT-base-uncased`
 - **Library**: Hugging Face `transformers` and `datasets`
 - **Training**:
